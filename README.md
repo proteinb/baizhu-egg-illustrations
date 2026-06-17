@@ -4,17 +4,17 @@
 
 ## 测试配图
 
-![五馆联动核心数据配图](assets/01-core-data-overview.png)
+![饭盒废品重新定价样张](assets/01-lunchbox-repricing.png)
 
 这组图来自白煮蛋正文配图测试，用来展示 skill 预期生成的构图、线稿、留白、中文批注和少量强调色。
 
-![十三赛道产业分布配图](assets/02-industry-segments.png)
+![单位发放处写检查样张](assets/02-unit-distribution-check.png)
 
-![全球展区配图](assets/03-global-pavilions.png)
+![准时上班路径样张](assets/03-punctual-work-route.png)
 
-![企业规模结构配图](assets/04-company-scale-structure.png)
+![铝超标压力挤出样张](assets/04-aluminum-pressure-test.png)
 
-![五大趋势配图](assets/05-five-trends.png)
+![白煮蛋形态系统样张](assets/05-egg-form-system.png)
 
 ## 用途
 

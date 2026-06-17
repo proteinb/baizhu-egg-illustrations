@@ -34,6 +34,20 @@
 
 默认语义：安静、认真、耐心、正在干活，有一点荒诞，但不是卖萌角色。
 
+## 技术规范样张
+
+以下样张用于校准围裙白煮蛋 IP 的角色识别、构图密度、线稿质感、中文手写批注和少量强调色。生成新图时不要复刻这些构图，只参考视觉气质和约束边界。
+
+![饭盒废品重新定价样张](../assets/01-lunchbox-repricing.png)
+
+![单位发放处写检查样张](../assets/02-unit-distribution-check.png)
+
+![准时上班路径样张](../assets/03-punctual-work-route.png)
+
+![铝超标压力挤出样张](../assets/04-aluminum-pressure-test.png)
+
+![白煮蛋形态系统样张](../assets/05-egg-form-system.png)
+
 ## 稳定识别点
 
 围裙是最高优先级识别点。任何图像、动作和变体都不能省略围裙。
