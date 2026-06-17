@@ -24,7 +24,7 @@ Composition:
 {具体画面：白煮蛋在哪里、正在做什么、主要物件是什么、信息如何流动}
 
 Egg form:
-{默认白煮蛋 / 蛋壳碎了 / 荷包蛋 / 炒蛋 / 蒸鸡蛋 / 蛋花 / 溏心蛋}
+Default to A: complete apron boiled egg. Use B fried egg / C scrambled egg / D steamed egg / E egg-drop form only when the article meaning is strongly tied to spreading, fragmentation, warm stability, or diffusion. Do not switch forms just for variety. Selected form: {A 完整围裙白煮蛋 / B 荷包蛋 / C 炒蛋 / D 蒸鸡蛋 / E 蛋花}. Shell cracks or soft-boiled yolk leak are emotion details, not the default main form.
 
 Egg-state emotion cues:
 {围裙必须可见} + {蛋壳裂纹 / 碎壳 / 蛋黄渗出 / 蛋白摊开 / 炒蛋碎片 / 蒸汽 / 蛋花扩散} must connect to the action and emotion.
