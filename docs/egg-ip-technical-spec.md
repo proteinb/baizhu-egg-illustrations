@@ -28,8 +28,9 @@
 - 黑点眼。
 - 克制表情，可以轻微微笑，但不要大笑脸。
 - 细手细脚。
-- 简单深色围裙，前方有系带或小结。
-- 小工作鞋。
+- 简单深色围裙，位于主体正面，面积足够像围裙，不能缩成腰线。
+- 围裙前方至少有一个可见细节：系带、小结、细竖纹或小口袋。
+- 小工作鞋，两只鞋尽量可见，不能只剩两根腿线。
 - 无眼镜。
 - 可有少量蛋壳裂纹或碎壳。
 
@@ -51,17 +52,18 @@
 
 ## 稳定识别点
 
-围裙是最高优先级识别点。任何图像、动作和变体都不能省略围裙。
+围裙是最高优先级识别点。任何图像、动作和变体都不能省略围裙，也不能把围裙画成一条腰线、一个模糊黑块或被道具遮住的边角。
 
 必须稳定保留：
 
 - 深色围裙。
 - 前方系带或小结。
+- 细竖纹或小口袋。
 - 黑点眼。
 - 细手细脚。
 - 小工作鞋。
 
-如果一张图使用荷包蛋、炒蛋、蒸鸡蛋、蛋花或溏心蛋形态，仍然必须让主体戴围裙。其他蛋块、蛋花、碎壳只能作为情绪或结构碎片。
+如果一张图使用荷包蛋、炒蛋、蒸鸡蛋、蛋花或溏心蛋形态，仍然必须让主体戴围裙。围裙要在主体正面或核心蛋块上清楚可见，不能被蛋黄、蛋白、碗、工具、文字或手臂遮住。其他蛋块、蛋花、碎壳只能作为情绪或结构碎片。
 
 ## 蛋形态系统
 
@@ -152,6 +154,8 @@
 
 - 不要画成普通鸡蛋图标。
 - 不要省略围裙。
+- 不要把围裙画成一条腰线、模糊黑块或普通口袋图标。
+- 不要让小工作鞋消失，只剩细腿。
 - 不要戴眼镜。
 - 不要画成儿童卡通或表情包。
 - 不要使用大笑脸、爱心、腮红作为主要情绪表达。
@@ -162,7 +166,7 @@
 ## 生成提示片段
 
 ```text
-白煮蛋, an empty white boiled-egg worker character drawn with a black hand-drawn outline, tiny thin arms and legs, black dot eyes, restrained neutral expression, no glasses. It must have a simple dark waist apron tied in front with a small knot or bow, plus small plain worker shoes. The apron is the stable visual hook and must remain visible even if the egg changes form. Use egg-state cues such as shell cracks, tiny shell chips, soft egg white edges, a small clean yolk leak, egg-drop fragments, or gentle steam only when tied to the action and emotion.
+白煮蛋, an empty white boiled-egg worker character drawn with a black hand-drawn outline, tiny thin arms and legs, black dot eyes, restrained blank expression, no glasses. It must have a front-center simple dark apron that is clearly visible and large enough to read as an apron, not just a belt line. The apron must include at least one visible detail: a small front knot, tied straps, thin vertical stripes, or a tiny pocket. Add small plain worker shoes on the feet. The apron and shoes are the stable visual hooks and must remain visible even if the egg changes form. Use egg-state cues such as shell cracks, tiny shell chips, soft egg white edges, a small clean yolk leak, egg-drop fragments, or gentle steam only when tied to the action and emotion.
 ```
 
 ## 验收标准
@@ -171,6 +175,8 @@
 
 - 能看出白煮蛋 IP。
 - 围裙清楚可见。
+- 围裙在主体正面，面积足够，有小结/系带/细竖纹/小口袋之一。
+- 小工作鞋可见。
 - 主体参与核心动作。
 - 变体仍保留围裙和主体识别。
 - 食物状态服务情绪和结构。
